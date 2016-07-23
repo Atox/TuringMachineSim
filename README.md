@@ -9,4 +9,4 @@ Multi-track Turing machine simulator
 - Tapes and commands editor, state monitoring
 
 ## How to build
-Software comes with Qt Creator project and utilizes Qt 5.x library.
+Software comes with Qt Creator project and uses Qt 5.x library.
